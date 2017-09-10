@@ -257,4 +257,5 @@ if __name__ == '__main__':
     # demo_set()
     # demo_exception()
     # demo_random()
+    qiushibaike()
     demo_re()
